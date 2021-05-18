@@ -1,3 +1,5 @@
+@import url(//db.onlinewebfonts.com/c/2f48abc8c45de9add264c5be432e878e?family=HACKED);
+
 *{
     padding: 0;
     margin: 0;
@@ -6,10 +8,7 @@
     border: none;
     outline: none;
 }
-@font-face {
-    font-family: HACKED;
-    src: url('fonts/Hacked-KerX.ttf');
-}
+
 .logo
 {
   z-index: 1000;
